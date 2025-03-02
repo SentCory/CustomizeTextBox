@@ -1,0 +1,17 @@
+F:\User\Desktop\Project\CustomizeTextBox\bin\Debug\net8.0-windows\CustomizeTextBox.exe
+F:\User\Desktop\Project\CustomizeTextBox\bin\Debug\net8.0-windows\CustomizeTextBox.deps.json
+F:\User\Desktop\Project\CustomizeTextBox\bin\Debug\net8.0-windows\CustomizeTextBox.runtimeconfig.json
+F:\User\Desktop\Project\CustomizeTextBox\bin\Debug\net8.0-windows\CustomizeTextBox.dll
+F:\User\Desktop\Project\CustomizeTextBox\bin\Debug\net8.0-windows\CustomizeTextBox.pdb
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.Form1.resources
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.TextBox.resources
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.csproj.GenerateResource.cache
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.GeneratedMSBuildEditorConfig.editorconfig
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.AssemblyInfoInputs.cache
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.AssemblyInfo.cs
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.csproj.CoreCompileInputs.cache
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.dll
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\refint\CustomizeTextBox.dll
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.pdb
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\CustomizeTextBox.genruntimeconfig.cache
+F:\User\Desktop\Project\CustomizeTextBox\obj\Debug\net8.0-windows\ref\CustomizeTextBox.dll
