@@ -33,6 +33,8 @@
 - **Text Handling Features:** `CustomizeTextBox` only supports single-line text input and lacks the advanced features of `TextBox` (e.g., auto-wrapping, scrollbars, text selection).
 - **Input Method Support:** Although `CustomizeTextBox` sets `ImeMode = ImeMode.On`, its support for input methods is less comprehensive compared to `TextBox`.
 
+### **  I'll continue to update some other controls here if I have time later **
+
 # 中文:
 
 ### **外观设计：**
@@ -67,3 +69,6 @@ ForeColor：继承自 Control，定义文本颜色.
 
 文本处理功能：CustomizeTextBox 仅支持单行文本输入，并且没有 TextBox 的高级功能（如自动换行、滚动条、文本选择等）.
 输入法支持：虽然 CustomizeTextBox 设置了 ImeMode = ImeMode.On，但它对输入法的支持不如 TextBox 完善.
+
+
+### ** 之后如果有时间我会继续在这里更新一些其他的控件 **
